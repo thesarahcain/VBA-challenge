@@ -1,3 +1,6 @@
 # VBA-challenge
 ### Background
-##### I will use VBA scripting to analyze tock market data for this homework assignment. 
+##### This repository contains a VBA script that analyzes stock market data in Microsoft Excel. 
+### Analysis
+##### Reference the files contained in the assignment folder "Starter_Code." This contains the VBA code, image outputs of the assignment, and the excel file used to generate the code. The code outputs the following results when ran: 
+![Screenshot (2)](https://github.com/thesarahcain/VBA-challenge/assets/148586543/074ea510-04da-4ee0-99fc-1168bbac52e9)
